@@ -1,2 +1,2 @@
-# React-native-demo
-My first reactive native demo App
+# Demon-app
+ my first react native app
